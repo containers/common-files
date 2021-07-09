@@ -9,7 +9,6 @@ import (
 )
 
 var _ = Describe("Config", func() {
-
 	Describe("ValidateAuth", func() {
 		It("validate GetDefaultAuthFile", func() {
 			// Given
